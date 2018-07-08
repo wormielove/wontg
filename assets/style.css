@@ -1,0 +1,62 @@
+#show {
+    height: 350px;
+    overflow: auto;  
+}
+
+#rain { 
+    height: 350px;
+    overflow: hidden;
+}
+
+#slide {
+    border: solid;
+    border-color: white;
+    border-width: 5px;
+}
+.responsive {
+    width: 100%;
+    height: auto;
+}
+#weather {
+    border: solid;
+    border-color: rgb(210, 212, 214);
+    border-width: 1px;
+    float: left;
+    padding: 3px;
+    
+    /* margin-right: 2%;   */
+}
+
+#eventResults {
+    border: solid;
+    border-color: rgb(210, 212, 214);
+    border-width: 1px;
+    float: left;
+    padding: 3px;
+}
+
+#zip {
+    color: gray;
+    text-align: center;
+    font-size: x-large;
+    /* font-weight: bold; */
+}
+
+#btn {
+    text-align: center;
+}
+
+h3 {
+    color: gray;
+    text-align: center;
+    /* font-weight: bold; */
+}
+#submit {
+    background-color: rgb(82, 6, 19);
+    border-color: black;
+}
+
+#th {
+    color: gray;
+    background-color: rgb(235, 239, 243);
+}
